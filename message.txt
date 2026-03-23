@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meassage from main branch
+=======
+message from feature branch
+>>>>>>> feature-greeting
